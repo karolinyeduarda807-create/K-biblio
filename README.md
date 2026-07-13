@@ -1,2 +1,2 @@
-# K-biblio
+# K
 Biblioteca musical
